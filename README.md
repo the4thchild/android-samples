@@ -25,6 +25,11 @@ These are the Android samples for Google Play game services.
 
 **Note:** the samples that have corresponding counterparts for iOS and web (particularly, CollectAllTheStars and TypeANumber) are compatible across the platforms. This means that you can play some levels on CollectAllTheStars on your Android device, and then pick up your iOS device and continue where you left off! For TypeANumber, you will see your achievements and leaderboards on all platforms, and progress obtained on one will be reflected on the others.
 
+<h2>Frequently Asked Questions</h2>
+
+If you have questions about the samples (particularly, about *BaseGameActivity* and *GameHelper*), please
+take a look at [our FAQ](https://github.com/playgameservices/android-samples/blob/master/FAQ.txt).
+
 <h2>How to run a sample</h2>
 
 1. Set up the project in Developer Console. For more info:
@@ -64,7 +69,8 @@ Now jump to the *Modify IDs, compile and run* section and continue to follow the
 <h3>If you're using Android Studio...</h3>
 
 1. Open Android Studio and launch the Android SDK manager from it (Tools | Android | SDK Manager)
-1. Check that these two components are installed. Install them if they are not installed yet.
+1. Check that these two components are installed and updated to the latest version. Install or upgrade
+   them if necessary.
    1. *Google Play Services*
    1. *Google Play Services Repository*
 1. Return to Android Studio and select *Import Project*
