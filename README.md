@@ -22,6 +22,8 @@ These are the Android samples for Google Play game services.
 
    * **SkeletonTbmp** A trivial turn-based-multiplayer game.  In this thrilling game, you can invite many friends, then send a shared gamestate string back and forth until someone finishes, cancels, or the second-to-last player leaves.
 
+   * **BeGenerous** Send gifts and game requests to other players of BeGenerous.
+
 
 **Note:** the samples that have corresponding counterparts for iOS and web (particularly, CollectAllTheStars and TypeANumber) are compatible across the platforms. This means that you can play some levels on CollectAllTheStars on your Android device, and then pick up your iOS device and continue where you left off! For TypeANumber, you will see your achievements and leaderboards on all platforms, and progress obtained on one will be reflected on the others.
 
@@ -72,7 +74,7 @@ Now jump to the *Modify IDs, compile and run* section and continue to follow the
 1. Check that these two components are installed and updated to the latest version. Install or upgrade
    them if necessary.
    1. *Google Play Services*
-   1. *Google Play Services Repository*
+   1. *Google Repository*
 1. Return to Android Studio and select *Import Project*
 1. Select the **BasicSamples** directory
 1. Select "Import from existing model - Gradle"
